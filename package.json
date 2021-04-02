@@ -1,0 +1,24 @@
+{
+  "name": "message-api",
+  "version": "1.0.0",
+  "description": "For rest operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f4ayush/message-api.git"
+  },
+  "keywords": [],
+  "author": "Ayush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f4ayush/message-api/issues"
+  },
+  "homepage": "https://github.com/f4ayush/message-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
